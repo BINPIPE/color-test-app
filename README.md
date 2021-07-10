@@ -1,6 +1,6 @@
 [![BINPIPE](https://img.shields.io/badge/BINPIPE-YouTube-red)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1)
 
-## Example of React Web Application 
+## Example of a Containerized React Web Application 
 
 ### Summary
 This is a basic digital coloring book, created by Alison Quaglia. I encourage you to check out her other works, especially [coloring book with National parks](https://github.com/hylobates-lar/coloring_book_frontend)! It's awesome!!! 😍
